@@ -39,7 +39,8 @@
 25. 云南大学：[http://mirrors.ynuosa.org/index/](http://mirrors.ynuosa.org/index/)（镜像站列表）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 26. 哈尔滨工业大学：[https://mirrors.hit.edu.cn/](https://mirrors.hit.edu.cn/)
 27. 南方科技大学：[https://mirrors.sustech.edu.cn/](https://mirrors.sustech.edu.cn/)
-
+28. 北京大学：[https://mirrors.pku.edu.cn/](https://mirrors.pku.edu.cn/)
+29. 中国科学院软件研究所 - 智能软件研究中心：[https://mirror.iscas.ac.cn/](https://mirror.iscas.ac.cn/)
 
 ### （三）、教育站校内
 1. 西安电子科技大学：[https://linux.xidian.edu.cn/mirrors/](https://linux.xidian.edu.cn/mirrors/)（镜像仅供校内使用）
