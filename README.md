@@ -36,12 +36,13 @@
 22. 华南农业大学：[https://mirrors.scau.edu.cn/](https://mirrors.scau.edu.cn/)
 23. 东莞理工学院：[https://mirrors.dgut.edu.cn/](https://mirrors.dgut.edu.cn/)（2021.2已用容量估计：5.55T）
 24. 重庆邮电大学：[http://mirrors.cqupt.edu.cn/](http://mirrors.cqupt.edu.cn/)[https://mirror.redrock.team/](https://mirror.redrock.team/)（当前已用容量估计：1.68T）
-25. 云南大学：[http://mirrors.ynuosa.org/index/](http://mirrors.ynuosa.org/index/)（镜像站列表）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
+25. 云南大学：[https://mirrors.ynu.edu.cn/index/](https://mirrors.ynu.edu.cn/index/)（镜像站列表）,[http://pypi.opensource.ynu.edu.cn/](http://pypi.opensource.ynu.edu.cn/)（收录pypi）
 26. 哈尔滨工业大学：[https://mirrors.hit.edu.cn/](https://mirrors.hit.edu.cn/)
 27. 南方科技大学：[https://mirrors.sustech.edu.cn/](https://mirrors.sustech.edu.cn/)
-28. 北京大学：[https://mirrors.pku.edu.cn/](https://mirrors.pku.edu.cn/)
-29. 中国科学院软件研究所 - 智能软件研究中心：[https://mirror.iscas.ac.cn/](https://mirror.iscas.ac.cn/)
-30. 武昌首义学院：[https://mirrors.wsyu.edu.cn/](https://mirrors.wsyu.edu.cn/)
+28. 山东大学：[https://mirrors.sdu.edu.cn/](https://mirrors.sdu.edu.cn/)
+29. 北京大学：[https://mirrors.pku.edu.cn/Mirrors](https://mirrors.pku.edu.cn/Mirrors)
+30. 中国科学院软件研究所 - 智能软件研究中心：[https://mirror.iscas.ac.cn/](https://mirror.iscas.ac.cn/)
+31. 武昌首义学院：[https://mirrors.wsyu.edu.cn/](https://mirrors.wsyu.edu.cn/)
 
 ### （三）、教育站校内
 1. 西安电子科技大学：[https://linux.xidian.edu.cn/mirrors/](https://linux.xidian.edu.cn/mirrors/)（镜像仅供校内使用）
@@ -54,21 +55,16 @@
 
 ### （四）、其他
 1. 常州贝特康姆软件技术有限公司(公云PubYun)：[http://centos.bitcomm.cn/](http://centos.bitcomm.cn/)，[http://mirrors.pubyun.com/](http://mirrors.pubyun.com/)（当前已用容量估计：2.3T）
-2. 豆瓣pypi：[http://pypi.doubanio.com/](http://pypi.doubanio.com/)，[https://pypi.doubanio.com/](https://pypi.doubanio.com/)
-3. v2ex的pypi：[http://pypi.v2ex.com/](http://pypi.v2ex.com/)（首页有https异常NET::ERR_CERT_COMMON_NAME_INVALID）
-4. 淘宝NPM：[https://npm.taobao.org/](https://npm.taobao.org/)
-5. Ruby China的RubyGems：[https://gems.ruby-china.com/](https://gems.ruby-china.com/)
-6. 淘宝TAEMaven仓库镜像：[http://mvnrepo.tae.taobao.com/content/groups/public/](http://mvnrepo.tae.taobao.com/content/groups/public/)
-7. 阿里云Maven仓库镜像：[http://maven.aliyun.com/nexus/content/groups/public](http://maven.aliyun.com/nexus/content/groups/public)
-8. 阿里云Jcenter仓库镜像：[http://maven.aliyun.com/nexus/content/repositories/jcenter/](http://maven.aliyun.com/nexus/content/repositories/jcenter/)
-9. LinuxEye：[http://mirrors.linuxeye.com/](http://mirrors.linuxeye.com/)
-10. 移动云镜像站：[http://mirrors.bclinux.org/](http://mirrors.bclinux.org/)
-11. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
-12. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
-13. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
-14. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
-15. injdk.cn的各版本JDK镜像：[https://www.injdk.cn/](https://www.injdk.cn/)
-16. 百度Go Module仓库代理：[http://goproxy.baidu.com/](http://goproxy.baidu.com/)
+2. Ruby China的RubyGems：[https://gems.ruby-china.com/](https://gems.ruby-china.com/)
+3. LinuxEye：[http://mirrors.linuxeye.com/](http://mirrors.linuxeye.com/)
+4. 移动云镜像站：[http://mirrors.bclinux.org/](http://mirrors.bclinux.org/)
+5. Cloud-Stack镜像站：[http://mirrors.cloudstack-china.com/](http://mirrors.cloudstack-china.com/)
+6. cn99(常州贝特康姆旗下)：[http://mirrors.cn99.com/](http://mirrors.cn99.com/)
+7. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
+8. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
+9. injdk.cn的各版本JDK镜像：[https://www.injdk.cn/](https://www.injdk.cn/)
+10. 百度Go Module仓库代理：[http://goproxy.baidu.com/](http://goproxy.baidu.com/)
+11. EuropeJing镜像：[http://mirrors.europejing.com/](http://mirrors.europejing.com/)（只收录Rocky Linux）
 
 
 ### （五）、确认关闭的镜像站
@@ -132,14 +128,22 @@
  * 阿里云：[http://mirrors.aliyun.com/centos-vault/](http://mirrors.aliyun.com/centos-vault/)
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/centos-vault/](https://mirror.tuna.tsinghua.edu.cn/centos-vault/)
  * 南京大学：[http://mirrors.nju.edu.cn/centos-vault/](http://mirrors.nju.edu.cn/centos-vault/)
+ 
+4. Rocky Linux
+ * 南京大学：[https://mirrors.nju.edu.cn/rocky/](https://mirrors.nju.edu.cn/rocky/)
+ * 上海交通大学：[https://mirrors.sjtug.sjtu.edu.cn/rocky/](https://mirrors.sjtug.sjtu.edu.cn/rocky/)
+ * 山东大学：[https://mirrors.sdu.edu.cn/rocky/](https://mirrors.sdu.edu.cn/rocky/) 
 
-4. 树莓派Raspbian
+5. AlmaLinux
+ * 上海交通大学：[https://mirror.sjtu.edu.cn/almalinux/](https://mirror.sjtu.edu.cn/almalinux/)
+
+6. 树莓派Raspbian
  * 搜狐：[http://mirrors.sohu.com/raspbian/](http://mirrors.sohu.com/raspbian/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/raspbian/](http://mirrors.ustc.edu.cn/raspbian/)
  * 浙江大学：[http://mirrors.zju.edu.cn/raspbian/](http://mirrors.zju.edu.cn/raspbian/)
  * 重庆大学：[http://mirrors.cqu.edu.cn/raspbian/](http://mirrors.cqu.edu.cn/raspbian/)
 
-5. FreeBSD
+7. FreeBSD
  * ChinaFreeBSD：[http://chinafreebsd.cn/article/chinafreebsd-resouce](http://chinafreebsd.cn/article/chinafreebsd-resouce)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/help/freebsd.html](http://mirrors.ustc.edu.cn/help/freebsd.html)
 
@@ -153,28 +157,38 @@
 2. Nginx
  * 搜狐：[http://mirrors.sohu.com/nginx/](http://mirrors.sohu.com/nginx/)
 
-3. MySQL-ftp
+3. OpenResty
+ * 腾讯：[https://mirrors.cloud.tencent.com/openresty/](https://mirrors.cloud.tencent.com/openresty/)
+ * 平安云：[https://mirrors.pinganyun.com/openresty/](https://mirrors.pinganyun.com/openresty/)
+ * OpenTuna/AWS中国：[https://opentuna.cn/openresty/](https://opentuna.cn/openresty/)
+ * 中国科技大学：[https://mirrors.ustc.edu.cn/openresty/](https://mirrors.ustc.edu.cn/openresty/)
+ * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/openresty/](https://mirrors.tuna.tsinghua.edu.cn/openresty/)
+ * 北京外国语大学：[https://mirrors.bfsu.edu.cn/openresty/](https://mirrors.bfsu.edu.cn/openresty/)
+ * 西北农林科技大学：[https://mirrors.nwafu.edu.cn/openresty/](https://mirrors.nwafu.edu.cn/openresty/)
+ * 南京大学：[https://mirrors.nju.edu.cn/openresty/](https://mirrors.nju.edu.cn/openresty/)
+
+4. MySQL-ftp
  * 网易163：[http://mirrors.163.com/mysql/Downloads/](http://mirrors.163.com/mysql/Downloads/)
  * 搜狐：[http://mirrors.sohu.com/mysql/](http://mirrors.sohu.com/mysql/)
  * USTC：[http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/](http://mirrors.ustc.edu.cn/mysql-ftp/Downloads/)
 
-4. MySQL-repo
+5. MySQL-repo
  * OpenTuna/AWS中国：[https://opentuna.cn/mysql/yum/](https://opentuna.cn/mysql/yum/)
  * 平安云：[https://mirrors.pinganyun.com/mysql/yum/](https://mirrors.pinganyun.com/mysql/yum/)
 
-5. PostgreSQL
+6. PostgreSQL
  * 浙江大学：[http://mirrors.zju.edu.cn/postgresql/](http://mirrors.zju.edu.cn/postgresql/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/postgresql/](http://mirrors.ustc.edu.cn/postgresql/)
 
-6. MariaDB
+7. MariaDB
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/mariadb/](https://mirror.tuna.tsinghua.edu.cn/help/mariadb/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/help/mariadb.html](http://mirrors.ustc.edu.cn/help/mariadb.html)
 
-7. mongodb
+8. mongodb
  * 阿里云：[http://mirrors.aliyun.com/mongodb/](http://mirrors.aliyun.com/mongodb/)
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/mongodb/](https://mirrors.tuna.tsinghua.edu.cn/mongodb/)
 
-8. VideoLAN
+9. VideoLAN
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/videolan/](http://mirrors.neusoft.edu.cn/videolan/)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/videolan-ftp/](http://mirrors.ustc.edu.cn/videolan-ftp/)
 
@@ -182,6 +196,7 @@
 1. AdoptOpenJDK
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/)
  * 南京大学：[http://mirrors.nju.edu.cn/AdoptOpenJDK/](http://mirrors.nju.edu.cn/AdoptOpenJDK/)
+ * 南方科技大学：[https://mirrors.sustech.edu.cn/help/AdoptOpenJDK.html](https://mirrors.sustech.edu.cn/help/AdoptOpenJDK.html)
 
 2. eclipse
  * 大连东软信息学院：[http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/](http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/)（推荐，维护及时）
@@ -217,9 +232,28 @@
 * 七牛/staticfile：[http://www.staticfile.org/](http://www.staticfile.org/)
 * 新浪：[http://lib.sinaapp.com/](http://lib.sinaapp.com/)
 
+9. NPM
+* 腾讯: [http://mirrors.cloud.tencent.com/npm/](http://mirrors.cloud.tencent.com/npm/)
+* 淘宝：[http://registry.npm.taobao.org/](http://registry.npm.taobao.org/)
+* 华为：[https://mirrors.huaweicloud.com/repository/npm/](https://mirrors.huaweicloud.com/repository/npm/)
+* 浙江大学：[http://mirrors.zju.edu.cn/npm/](http://mirrors.zju.edu.cn/npm/)
+* 南京邮电大学：[https://mirrors.njupt.edu.cn/nexus/repository/npm/](https://mirrors.njupt.edu.cn/nexus/repository/npm/)
+* 同济大学：[https://mirrors.tongji.edu.cn/nexus/repository/npm/](https://mirrors.tongji.edu.cn/nexus/repository/npm/)
+
+10. maven仓库/Jcenter仓库
+* 阿里云：[https://maven.aliyun.com/mvn/guide](https://maven.aliyun.com/mvn/guide)
+* 网易：[https://mirrors.163.com/.help/maven.html](https://mirrors.163.com/.help/maven.html)
+* 华为：[https://repo.huaweicloud.com/repository/maven/](https://repo.huaweicloud.com/repository/maven/)
+* 腾讯：[https://mirrors.cloud.tencent.com/help/maven.html](https://mirrors.cloud.tencent.com/help/maven.html)
+* 南京邮电大学：[http://mirrors.njupt.edu.cn/help/maven/](http://mirrors.njupt.edu.cn/help/maven/)
+* 同济大学：[https://mirrors.tongji.edu.cn/public/help/maven-central/](https://mirrors.tongji.edu.cn/public/help/maven-central/)
+
+
 
 ## 三、官方镜像列表状态地址
 * CentOS：[http://mirror-status.centos.org/#cn](http://mirror-status.centos.org/#cn)
+* Rocky Linux：[https://mirror.rockylinux.org/mirrormanager/mirrors](https://mirror.rockylinux.org/mirrormanager/mirrors)
+* AlmaLinux：[https://mirrors.almalinux.org/](https://mirrors.almalinux.org/)
 * Archlinux：[https://www.archlinux.org/mirrors/status/](https://www.archlinux.org/mirrors/status/)
 * Gentoo：[https://www.gentoo.org/downloads/mirrors/#CN](https://www.gentoo.org/downloads/mirrors/#CN)
 * Ubuntu CD：[https://launchpad.net/ubuntu/+cdmirrors](https://launchpad.net/ubuntu/+cdmirrors)
@@ -230,7 +264,8 @@
 * Fedora Linux/Fedora EPEL：[https://admin.fedoraproject.org/mirrormanager/mirrors](https://admin.fedoraproject.org/mirrormanager/mirrors)
 * openSUSE：[http://mirrors.opensuse.org/](http://mirrors.opensuse.org/)
 * PackMan：[http://packman.links2linux.org/mirrors](http://packman.links2linux.org/mirrors)
-* FreeBSD：[https://www.freebsd.org/doc/handbook/mirrors-ftp.html#mirrors-cn-ftp](https://www.freebsd.org/doc/handbook/mirrors-ftp.html#mirrors-cn-ftp)
+* FreeBSD：[https://docs.freebsd.org/en/books/handbook/mirrors/#mirrors-ftp](https://docs.freebsd.org/en/books/handbook/mirrors/#mirrors-ftp)
+* OpenBSD：[http://www.openbsd.org/ftp.html](http://www.openbsd.org/ftp.html)
 * Apache：[http://www.apache.org/mirrors/#cn](http://www.apache.org/mirrors/#cn)
 * Cygwin：[https://www.cygwin.com/mirrors.html](https://www.cygwin.com/mirrors.html)
 * CRAN：[https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html)
@@ -245,16 +280,18 @@
 * KNOPPIX：[http://www.knopper.net/knoppix-mirrors/](http://www.knopper.net/knoppix-mirrors/)
 * QT：[http://download.qt.io/static/mirrorlist/](http://download.qt.io/static/mirrorlist/)
 * VideoLAN：[http://www.videolan.org/videolan/mirrors.html](http://www.videolan.org/videolan/mirrors.html)
-* eclipse：[http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-java-luna-SR2-win32.zip&format=xml](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR2/eclipse-java-luna-SR2-win32.zip&format=xml)
+* eclipse：[https://www.eclipse.org/lists/eclipse-mirrors/2021/Mar/index.html](https://www.eclipse.org/lists/eclipse-mirrors/2021/Mar/index.html)
 * repoforge：[http://mirror-status.repoforge.org/#cn](http://mirror-status.repoforge.org/#cn)
 * Jenkins：[http://mirrors.jenkins-ci.org/status.html#CN](http://mirrors.jenkins-ci.org/status.html#CN)
 * MariaDB：[https://mariadb.com/kb/en/mirror-sites-for-mariadb/](https://mariadb.com/kb/en/mirror-sites-for-mariadb/)
+* Manjaro：[https://repo.manjaro.org/](https://repo.manjaro.org/)
+
 
 
 ## 四、几个官方cn子域解析
-* FreeBSD：[ftp://ftp.cn.freebsd.org/](ftp://ftp.cn.freebsd.org/)<-->[ftp://www.freebsdchina.org/](ftp://www.freebsdchina.org/)FreeBSD China
 * Debian：[http://ftp.cn.debian.org/](http://ftp.cn.debian.org/)<-->[https://mirrors.ustc.edu.cn/debian/](https://mirrors.ustc.edu.cn/debian/)中国科学技术大学
 * Debian：[http://ftp2.cn.debian.org/](http://ftp2.cn.debian.org/)<-->[https://mirror.tuna.tsinghua.edu.cn/debian/](https://mirror.tuna.tsinghua.edu.cn/debian/)清华大学
+* ubuntu：[http://cn.archive.ubuntu.com/](http://cn.archive.ubuntu.com/)<-->[http://banjo.canonical.com/](http://banjo.canonical.com/)canonical.com美国
 
 
 ## 五、镜像站搭建参考
