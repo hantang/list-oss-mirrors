@@ -41,6 +41,7 @@
 27. 南方科技大学：[https://mirrors.sustech.edu.cn/](https://mirrors.sustech.edu.cn/)
 28. 北京大学：[https://mirrors.pku.edu.cn/](https://mirrors.pku.edu.cn/)
 29. 中国科学院软件研究所 - 智能软件研究中心：[https://mirror.iscas.ac.cn/](https://mirror.iscas.ac.cn/)
+30. 武昌首义学院：[https://mirrors.wsyu.edu.cn/](https://mirrors.wsyu.edu.cn/)
 
 ### （三）、教育站校内
 1. 西安电子科技大学：[https://linux.xidian.edu.cn/mirrors/](https://linux.xidian.edu.cn/mirrors/)（镜像仅供校内使用）
