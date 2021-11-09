@@ -234,7 +234,7 @@
 
 9. NPM
 * 腾讯: [http://mirrors.cloud.tencent.com/npm/](http://mirrors.cloud.tencent.com/npm/)
-* 淘宝：[http://registry.npm.taobao.org/](http://registry.npm.taobao.org/)
+* 淘宝：[https://registry.npmmirror.com](https://registry.npmmirror.com),web站点[https://npmmirror.com/](https://npmmirror.com/)
 * 华为：[https://mirrors.huaweicloud.com/repository/npm/](https://mirrors.huaweicloud.com/repository/npm/)
 * 浙江大学：[http://mirrors.zju.edu.cn/npm/](http://mirrors.zju.edu.cn/npm/)
 * 南京邮电大学：[https://mirrors.njupt.edu.cn/nexus/repository/npm/](https://mirrors.njupt.edu.cn/nexus/repository/npm/)
