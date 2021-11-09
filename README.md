@@ -149,6 +149,14 @@
  * 网易：[http://mirrors.163.com/.help/freebsd.html](http://mirrors.163.com/.help/freebsd.html)
  * 北京交通大学：[https://mirror.bjtu.edu.cn/help/freebsd/](https://mirror.bjtu.edu.cn/help/freebsd/)
 
+8. OpenBSD
+ * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/OpenBSD](https://mirrors.tuna.tsinghua.edu.cn/OpenBSD)
+ * 北京外国语大学：[https://mirrors.bfsu.edu.cn/OpenBSD](https://mirrors.bfsu.edu.cn/OpenBSD)
+ * 华为：[https://mirrors.huaweicloud.com/OpenBSD](https://mirrors.huaweicloud.com/OpenBSD)
+ * 阿里：[https://mirrors.aliyun.com/openbsd](https://mirrors.aliyun.com/openbsd)
+ * 搜狐：[http://mirrors.sohu.com/OpenBSD](http://mirrors.sohu.com/OpenBSD)
+ * 腾讯：[https://mirrors.cloud.tencent.com/OpenBSD](https://mirrors.cloud.tencent.com/OpenBSD)
+
 
 ### （二）、服务器类
 1. Tomcat、Apache
