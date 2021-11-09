@@ -146,7 +146,8 @@
 7. FreeBSD
  * ChinaFreeBSD：[http://chinafreebsd.cn/article/chinafreebsd-resouce](http://chinafreebsd.cn/article/chinafreebsd-resouce)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/help/freebsd.html](http://mirrors.ustc.edu.cn/help/freebsd.html)
-
+ * 网易：[http://mirrors.163.com/.help/freebsd.html](http://mirrors.163.com/.help/freebsd.html)
+ * 北京交通大学：[https://mirror.bjtu.edu.cn/help/freebsd/](https://mirror.bjtu.edu.cn/help/freebsd/)
 
 
 ### （二）、服务器类
