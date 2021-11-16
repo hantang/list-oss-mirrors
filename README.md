@@ -157,6 +157,10 @@
  * 搜狐：[http://mirrors.sohu.com/OpenBSD/](http://mirrors.sohu.com/OpenBSD/)
  * 腾讯：[https://mirrors.cloud.tencent.com/OpenBSD](https://mirrors.cloud.tencent.com/OpenBSD)
 
+9. openEuler
+ * 阿里云：[https://mirrors.aliyun.com/openeuler/](https://mirrors.aliyun.com/openeuler/)
+ * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/openeuler/](https://mirrors.tuna.tsinghua.edu.cn/openeuler/)
+
 
 ### （二）、服务器类
 1. Tomcat、Apache
@@ -294,7 +298,7 @@
 * Jenkins：[http://mirrors.jenkins-ci.org/status.html#CN](http://mirrors.jenkins-ci.org/status.html#CN)
 * MariaDB：[https://mariadb.com/kb/en/mirror-sites-for-mariadb/](https://mariadb.com/kb/en/mirror-sites-for-mariadb/)
 * Manjaro：[https://repo.manjaro.org/](https://repo.manjaro.org/)
-
+* openEuler：[https://www.openeuler.org/zh/mirror/list/](https://www.openeuler.org/zh/mirror/list/)
 
 
 ## 四、几个官方cn子域解析
