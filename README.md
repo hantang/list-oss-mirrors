@@ -43,6 +43,7 @@
 29. 北京大学：[https://mirrors.pku.edu.cn/Mirrors](https://mirrors.pku.edu.cn/Mirrors)
 30. 中国科学院软件研究所 - 智能软件研究中心：[https://mirror.iscas.ac.cn/](https://mirror.iscas.ac.cn/)
 31. 武昌首义学院：[https://mirrors.wsyu.edu.cn/](https://mirrors.wsyu.edu.cn/)
+31. 北京邮电大学：[http://mirrors.bupt.edu.cn/](http://mirrors.bupt.edu.cn/)
 
 ### （三）、教育站校内
 1. 西安电子科技大学：[https://linux.xidian.edu.cn/mirrors/](https://linux.xidian.edu.cn/mirrors/)（镜像仅供校内使用）
@@ -78,39 +79,38 @@
 9. ZMX - IT技术交流论坛：[http://mirrors.itzmx.com/](http://mirrors.itzmx.com/)（域名跳转到清华镜像）
 10. 中国科学院：[http://www.opencas.org/mirrors/](http://www.opencas.org/mirrors/)（2016年5月关闭）
 11. 电子科技大学LUG镜像：[http://mirrors.uestc.xyz/](http://mirrors.uestc.xyz/)（2016年4月关闭）
-12. 北京邮电大学：[ftp://ftp.bupt.edu.cn/pub/mirror/](ftp://ftp.bupt.edu.cn/pub/mirror/)（2016年9月关闭，清空FTP）
-13. 西南大学：[http://mirrors.linuxstory.org/](http://mirrors.linuxstory.org/)，[http://mirrors.swu.edu.cn/](http://mirrors.swu.edu.cn/)（2016年6月关闭）
-14. 电子科技大学星辰工作室：[http://mirrors.stuhome.net/](http://mirrors.stuhome.net/)（2016年8月关闭）
-15. noc.im：[http://mirrors.noc.im/](http://mirrors.noc.im/)（2016年8月关闭）
-16. LUPA：[http://mirror.lupaworld.com/](http://mirror.lupaworld.com/)（2016年停止同步，无实质内容）
+12. 西南大学：[http://mirrors.linuxstory.org/](http://mirrors.linuxstory.org/)，[http://mirrors.swu.edu.cn/](http://mirrors.swu.edu.cn/)（2016年6月关闭）
+13. 电子科技大学星辰工作室：[http://mirrors.stuhome.net/](http://mirrors.stuhome.net/)（2016年8月关闭）
+14. noc.im：[http://mirrors.noc.im/](http://mirrors.noc.im/)（2016年8月关闭）
+15. LUPA：[http://mirror.lupaworld.com/](http://mirror.lupaworld.com/)（2016年停止同步，无实质内容）
 17. 远景：[http://mirror.pcbeta.com/](http://mirror.pcbeta.com/)（2016年6月关闭）
 18. 山东理工大学：[http://ruby.sdutlinux.org/](http://ruby.sdutlinux.org/)（2016年9月关闭）
 19. 新浪：[http://mirrors.sina.cn/](http://mirrors.sina.cn/)，[http://mirrors.sina.com/](http://mirrors.sina.com/)（只收录CentOS，2015年3月上线，2016年10月关闭）
-21. 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/)（2016年11月关闭）
-22. 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/)（2016年11月关闭）
-23. 中国互联网络信息中心：[https://mirrors.cnnic.cn/](https://mirrors.cnnic.cn/)（只收录Apache镜像，2017年4月关闭，现CNAME到清华大学镜像）
-24. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（只收录Apache镜像，2017年4月关闭）
-25. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（2017年5月关闭）
-26. 吉林大学：[http://mirrors.jlu.edu.cn/](http://mirrors.jlu.edu.cn/)（2017年10月关闭）
-11. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)（无实质内容）
-12. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)（无法访问）
-13. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)（2017年后接近无人维护状态）
-14. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)（无法访问）
-15. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)（无法访问）
-16. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)（无法访问）
-17. 江苏开放大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)（无法访问）
-18. 上海科技大学：[https://mirrors-wan.geekpie.org/](https://mirrors-wan.geekpie.org/)（无法访问）
-19. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)（无法访问）
-20. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)（无法访问）
-21. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)（无法访问）
-22. 上海大学：[https://mirrors.shu.edu.cn/](https://mirrors.shu.edu.cn/)（无法访问）
-23. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)（无法访问）
-24. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（无法访问）
-25. Linux运维派：[https://mirrors.skyshe.cn/](https://mirrors.skyshe.cn/)（无法访问）
-26. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（无法访问）
-27. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（无法访问）
-28. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)（无法访问）
-29. 联创团队：[https://mirrors.hustunique.com/](https://mirrors.hustunique.com/)（无法访问）
+20. 中国地质大学：[http://mirrors.cug.edu.cn/](http://mirrors.cug.edu.cn/)（2016年11月关闭）
+21. 北京化工大学：[http://ubuntu.buct.edu.cn/](http://ubuntu.buct.edu.cn/)（2016年11月关闭）
+22. 中国互联网络信息中心：[https://mirrors.cnnic.cn/](https://mirrors.cnnic.cn/)（只收录Apache镜像，2017年4月关闭，现CNAME到清华大学镜像）
+23. 腾讯Bugly：[http://android-mirror.bugly.qq.com:8080/](http://android-mirror.bugly.qq.com:8080/)（只收录Apache镜像，2017年4月关闭）
+24. 海波网络镜像：[http://mirrors.hypo.cn/](http://mirrors.hypo.cn/)（2017年5月关闭）
+25. 吉林大学：[http://mirrors.jlu.edu.cn/](http://mirrors.jlu.edu.cn/)（2017年10月关闭）
+26. 厦门大学：[http://mirrors.xmu.edu.cn/](http://mirrors.xmu.edu.cn/)（无实质内容）
+27. 中山大学：[http://mirror.sysu.edu.cn/](http://mirror.sysu.edu.cn/)（无法访问）
+28. 东北大学：[http://mirror.neu.edu.cn/](http://mirror.neu.edu.cn/)（2017年后接近无人维护状态）
+29. 郑州大学：[https://mirrors.zzu.edu.cn/](https://mirrors.zzu.edu.cn/)（无法访问）
+30. 电子科技大学凝聚网络安全工作室：[http://mirrors.cnssuestc.org/](http://mirrors.cnssuestc.org/)（无法访问）
+31. 南京信息工程大学：[http://mirrors.duohuo.org/](http://mirrors.duohuo.org/)（无法访问）
+32. 江苏开放大学：[http://mirrors.jstvu.edu.cn/](http://mirrors.jstvu.edu.cn/)（无法访问）
+33. 上海科技大学：[https://mirrors-wan.geekpie.org/](https://mirrors-wan.geekpie.org/)（无法访问）
+34. 南京信息职业技术学院：[https://mirrors.njcit.cn/](https://mirrors.njcit.cn/)（无法访问）
+35. 南京邮电大学通达学院：[http://mirrors.tdsast.cn/](http://mirrors.tdsast.cn/)（无法访问）
+36. 燕山大学：[http://mirror.pret-page.com/](http://mirror.pret-page.com/)（无法访问）
+37. 上海大学：[https://mirrors.shu.edu.cn/](https://mirrors.shu.edu.cn/)（无法访问）
+38. 中国电信天翼云：[http://mirrors.ctyun.cn/](http://mirrors.ctyun.cn/)（无法访问）
+39. 开源镜像文件搜索：[http://mirrors.org.cn/](http://mirrors.org.cn/)（无法访问）
+40. Linux运维派：[https://mirrors.skyshe.cn/](https://mirrors.skyshe.cn/)（无法访问）
+41. 北京鹏博士宽带：[http://mirrors.btte.net/](http://mirrors.btte.net/)（无法访问）
+42. Fayea工作室：[http://apache.fayea.com/](http://apache.fayea.com/)（无法访问）
+43. 黔东南开源镜像站：[https://mirrors.gzqdn.org/](https://mirrors.gzqdn.org/)（无法访问）
+44. 联创团队：[https://mirrors.hustunique.com/](https://mirrors.hustunique.com/)（无法访问）
 
 ## 二、软件版
 ### （一）、操作系统类
@@ -345,3 +345,4 @@
  * 2020-11-2:东北大学镜像通过近两年来的访问监测，2017年后无更新内容，移动到关闭列表。
  * 2020-11-17:哈尔滨工业大学镜像重开
  * 2021-2-5:因Oracle JDK 8u203开始改变授权模式，无法免费商用，新增替代版免费JDK：AdoptOpenJDK
+ * 2021-12-10:北京邮电大学重新开通公网访问
