@@ -227,7 +227,7 @@
  * DaoCloud：[https://hub.daocloud.io/](https://hub.daocloud.io/)
  * 阿里云：[https://dev.aliyun.com/search.html](https://dev.aliyun.com/search.html)
  * 中国科技大学：[http://mirrors.ustc.edu.cn/help/dockerhub.html?highlight=docker](http://mirrors.ustc.edu.cn/help/dockerhub.html?highlight=docker)
- * azk8s.cn：[http://mirror.azure.cn/help/docker-registry-proxy-cache.html](http://mirror.azure.cn/help/docker-registry-proxy-cache.html)(仅 Azure中国IP可用)
+ * azk8s.cn：[http://mirror.kaiyuanshe.cn/help/docker-registry-proxy-cache.html](http://mirror.kaiyuanshe.cn/help/docker-registry-proxy-cache.html)(仅 Azure中国IP可用)
 
 6. GitLab-CE
  * 清华大学：[https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/](https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/)
