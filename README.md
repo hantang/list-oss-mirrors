@@ -206,7 +206,7 @@
  * 中国科技大学：[http://mirrors.ustc.edu.cn/videolan-ftp/](http://mirrors.ustc.edu.cn/videolan-ftp/)
 
 ### （三）、开发工具类
-1. AdoptOpenJDK
+1. AdoptOpenJDK（又称Eclipse Temurin JDK）
  * 清华大学：[https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/)
  * 南京大学：[http://mirrors.nju.edu.cn/AdoptOpenJDK/](http://mirrors.nju.edu.cn/AdoptOpenJDK/)
  * 南方科技大学：[https://mirrors.sustech.edu.cn/help/AdoptOpenJDK.html](https://mirrors.sustech.edu.cn/help/AdoptOpenJDK.html)
@@ -346,3 +346,4 @@
  * 2020-11-17:哈尔滨工业大学镜像重开
  * 2021-2-5:因Oracle JDK 8u203开始改变授权模式，无法免费商用，新增替代版免费JDK：AdoptOpenJDK
  * 2021-12-10:北京邮电大学重新开通公网访问
+ * 2021-12-12:AdoptOpenJDK已经改名Eclipse Temurin JDK
