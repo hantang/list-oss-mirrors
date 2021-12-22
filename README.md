@@ -309,7 +309,7 @@
 
 ## 五、镜像站搭建参考
 1. 清华大学镜像管理器脚本，[https://github.com/tuna/tunasync](https://github.com/tuna/tunasync)
-2. 搭建开源镜像站-FPs，[http://fangpeishi.github.io/build_opensource_mirror.html](http://fangpeishi.github.io/build_opensource_mirror.html)
+2. 搭建开源镜像站-FPs，[https://www.jb51.net/yunying/436477.html](https://www.jb51.net/yunying/436477.html)
 3. 科大开源软件镜像是怎样炼成的，[https://ring0.me/2013/09/how-ustc-mirror-works/](https://ring0.me/2013/09/how-ustc-mirror-works/)
 4. 北京交通大学同步脚本，[https://github.com/ideal/mirror](https://github.com/ideal/mirror)
 5. 中国科学院同步脚本，[https://github.com/opencas/mirrors](https://github.com/opencas/mirrors)
