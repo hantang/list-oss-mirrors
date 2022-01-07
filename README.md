@@ -272,6 +272,7 @@
 * Ubuntu CD：[https://launchpad.net/ubuntu/+cdmirrors](https://launchpad.net/ubuntu/+cdmirrors)
 * Ubuntu软件源：[https://launchpad.net/ubuntu/+archivemirrors](https://launchpad.net/ubuntu/+archivemirrors)
 * Debian：[https://www.debian.org/mirror/list](https://www.debian.org/mirror/list)，[https://www.debian.org/mirror/list.en.html](https://www.debian.org/mirror/list.en.html)
+* Debian-CD：[https://www.debian.org/CD/http-ftp/#mirrors](https://www.debian.org/CD/http-ftp/#mirrors)
 * Kail-image：[http://cdimage.kali.org/README.mirrorlist](http://cdimage.kali.org/README.mirrorlist) 
 * Linux Mint：[https://linuxmint.com/mirrors.php](https://linuxmint.com/mirrors.php)
 * Fedora Linux/Fedora EPEL：[https://admin.fedoraproject.org/mirrormanager/mirrors](https://admin.fedoraproject.org/mirrormanager/mirrors)
