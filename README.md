@@ -265,6 +265,7 @@
 
 ## 三、官方镜像列表状态地址
 * CentOS：[http://mirror-status.centos.org/#cn](http://mirror-status.centos.org/#cn)
+* CentOS-stream：[https://admin.fedoraproject.org/mirrormanager/mirrors/CentOS](https://admin.fedoraproject.org/mirrormanager/mirrors/CentOS)
 * Rocky Linux：[https://mirror.rockylinux.org/mirrormanager/mirrors](https://mirror.rockylinux.org/mirrormanager/mirrors)
 * AlmaLinux：[https://mirrors.almalinux.org/](https://mirrors.almalinux.org/)
 * Archlinux：[https://www.archlinux.org/mirrors/status/](https://www.archlinux.org/mirrors/status/)
