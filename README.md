@@ -64,8 +64,7 @@
 7. 龙芯开源社区：[http://mirrors.loongnix.org/](http://mirrors.loongnix.org/)（只收录龙芯镜像）
 8. 英荔教育：[https://mirrors.e-ducation.cn/](https://mirrors.e-ducation.cn/)
 9. injdk.cn的各版本JDK镜像：[https://www.injdk.cn/](https://www.injdk.cn/)
-10. 百度Go Module仓库代理：[http://goproxy.baidu.com/](http://goproxy.baidu.com/)
-11. EuropeJing镜像：[http://mirrors.europejing.com/](http://mirrors.europejing.com/)（只收录Rocky Linux）
+10. EuropeJing镜像：[http://mirrors.europejing.com/](http://mirrors.europejing.com/)（只收录Rocky Linux）
 
 
 ### （五）、确认关闭的镜像站
@@ -261,6 +260,10 @@
 * 南京邮电大学：[http://mirrors.njupt.edu.cn/help/maven/](http://mirrors.njupt.edu.cn/help/maven/)
 * 同济大学：[https://mirrors.tongji.edu.cn/public/help/maven-central/](https://mirrors.tongji.edu.cn/public/help/maven-central/)
 
+12.go module仓库
+* 百度：[https://goproxy.bj.bcebos.com](https://goproxy.bj.bcebos.com)
+* 七牛：[https://goproxy.cn/](https://goproxy.cn/)
+* 阿里云：[https://mirrors.aliyun.com/goproxy/](https://mirrors.aliyun.com/goproxy/)
 
 
 ## 三、官方镜像列表状态地址
